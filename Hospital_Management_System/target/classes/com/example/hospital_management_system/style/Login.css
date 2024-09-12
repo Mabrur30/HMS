@@ -1,0 +1,28 @@
+  .main_ankorpane{
+        -fx-background-color:#f3edc0;
+        -fx-border-color:#f3edc0;
+        -fx-border-width: 2px 2px 2px 2px;
+        -fx-border-radius:20px;
+        -fx-background-radius:20px;
+        -fx-border-style: solid;
+    }
+.textField1:focused{
+    -fx-border-color: linear-gradient(to bottom right, #188ba7,#306390);
+    -fx-border-width: 1px;
+}
+.textField2:focused{
+    -fx-border-color: linear-gradient(to bottom right, #188ba7,#306390);
+    -fx-border-width: 1px;
+}
+.btn1:hover{
+   -fx-background-color: linear-gradient(to bottom right, #00686e,#bee7da);
+   -fx-cursor: hand;
+
+}
+
+.radius{
+   -fx-background-radius: 6px;
+}
+.bg{
+-fx-background-color:#f3edc0;
+}
